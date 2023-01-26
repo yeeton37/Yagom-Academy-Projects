@@ -15,12 +15,12 @@
 
 | 프로젝트  | 기간 | 학습한 것 | 진행 방식 |
 |:-:|:-:|:-:|:-:|
-| ⚾️ 숫자 야구 |	2022.04.12 ~ 2022.04.15 |	Code Convention, Flow Chart |	2인 iOS 개발 |
-| ✊ 묵찌빠 게임 |	22.04.18 ~ 22.04.22 |	Recursion, Optional	| 2인 iOS 개발 |
-| 🧃 쥬스 메이커	| 22.04.25 ~ 22.05.13	| Singleton, Autolayout	| 2인 iOS 개발 |
-| 🧮 계산기	| 22.05.16 ~ 22.06.03	| Queue, LinkedList	| 1인 iOS 개발 | 
-| 🏛 만국박람회	| 22.06.13 ~ 22.06.24	| TableView, JSON	| 2인 iOS 개발|
-| 💸 은행 창구 매니저	| 22.06.27 ~ 22.07.08 | 	GCD	| 2인 iOS 개발 |
-| 🛍 오픈마켓  | 	22.07.11 ~ 22.08.05 |	URLSession, CollectionView	| 2인 iOS 개발 |
-| 📔 일기장 |	22.08.16 ~ 22.09.02	| CoreData, API | 	2인 iOS 개발 |
-| 🗂 프로젝트 매니저	| 22.09.04 ~ 22.09.30	 | iPad, RxSwift, MVVM, CoreData, Firestore	| 1인 iOS 개발 |
+|  [숫자 야구](https://github.com/yeeton37/ios-number-baseball) |	2022.04.12 ~ 2022.04.15 |	Code Convention, Flow Chart |	2인 iOS 개발 |
+|  [묵찌빠 게임](https://github.com/yeeton37/ios-rock-paper-scissors/tree/ic_6_groot) |	22.04.18 ~ 22.04.22 |	Recursion, Optional	| 2인 iOS 개발 |
+|  [쥬스 메이커](https://github.com/Hugh-github/ios-juice-maker/tree/step03)	| 22.04.25 ~ 22.05.13	| Singleton, Autolayout	| 2인 iOS 개발 |
+|  [계산기](https://github.com/yeeton37/ios-calculator-app/tree/step3-yeton)	| 22.05.16 ~ 22.06.03	| Queue, LinkedList	| 1인 iOS 개발 | 
+|  [만국박람회](https://github.com/yeeton37/ios-exposition-universelle/tree/step3)	| 22.06.13 ~ 22.06.24	| TableView, JSON	| 2인 iOS 개발|
+|  [은행 창구 매니저](https://github.com/wongbingg/ios-bank-manager/tree/test-code/step4_wongbing)	| 22.06.27 ~ 22.07.08 | 	GCD	| 2인 iOS 개발 |
+|  [오픈마켓](https://github.com/minsson/ios-open-market)  | 	22.07.11 ~ 22.08.05 |	URLSession, CollectionView	| 2인 iOS 개발 |
+|  [일기장](https://github.com/yeeton37/ios-diary/tree/feature/step2-2) |	22.08.16 ~ 22.09.02	| CoreData, API | 	2인 iOS 개발 |
+|  [프로젝트 매니저](https://github.com/yagom-academy/ios-project-manager/tree/ic_6_yeton)	| 22.09.04 ~ 22.09.30	 | iPad, RxSwift, MVVM, CoreData, Firestore	| 1인 iOS 개발 |
