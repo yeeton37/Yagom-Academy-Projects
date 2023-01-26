@@ -15,12 +15,13 @@
 
 | 프로젝트  | 기간 | 학습한 것 | 진행 방식 |
 |:-:|:-:|:-:|:-:|
-|  [숫자 야구](https://github.com/yeeton37/ios-number-baseball) |	2022.04.12 ~ 2022.04.15 |	Code Convention, Flow Chart |	2인 iOS 개발 |
-|  [묵찌빠 게임](https://github.com/yeeton37/ios-rock-paper-scissors/tree/ic_6_groot) |	22.04.18 ~ 22.04.22 |	Recursion, Optional	| 2인 iOS 개발 |
-|  [쥬스 메이커](https://github.com/Hugh-github/ios-juice-maker/tree/step03)	| 22.04.25 ~ 22.05.13	| Singleton, Autolayout	| 2인 iOS 개발 |
-|  [계산기](https://github.com/yeeton37/ios-calculator-app/tree/step3-yeton)	| 22.05.16 ~ 22.06.03	| Queue, LinkedList	| 1인 iOS 개발 | 
-|  [만국박람회](https://github.com/yeeton37/ios-exposition-universelle/tree/step3)	| 22.06.13 ~ 22.06.24	| TableView, JSON	| 2인 iOS 개발|
-|  [은행 창구 매니저](https://github.com/wongbingg/ios-bank-manager/tree/test-code/step4_wongbing)	| 22.06.27 ~ 22.07.08 | 	GCD	| 2인 iOS 개발 |
-|  [오픈마켓](https://github.com/minsson/ios-open-market)  | 	22.07.11 ~ 22.08.05 |	URLSession, CollectionView	| 2인 iOS 개발 |
-|  [일기장](https://github.com/yeeton37/ios-diary/tree/feature/step2-2) |	22.08.16 ~ 22.09.02	| CoreData, API | 	2인 iOS 개발 |
-|  [프로젝트 매니저](https://github.com/yagom-academy/ios-project-manager/tree/ic_6_yeton)	| 22.09.04 ~ 22.09.30	 | iPad, RxSwift, MVVM, CoreData, Firestore	| 1인 iOS 개발 |
+|  [숫자 야구](https://github.com/yeeton37/ios-number-baseball) |	2022.04.12 ~ 2022.04.15 | git 이해, Optional 처리
+ |	2인 iOS 개발 |
+|  [묵찌빠 게임](https://github.com/yeeton37/ios-rock-paper-scissors/tree/ic_6_groot) |	22.04.18 ~ 22.04.22 |	순환함수(재귀함수)와 반복문, 코딩 컨벤션	| 2인 iOS 개발 |
+|  [쥬스 메이커](https://github.com/Hugh-github/ios-juice-maker/tree/step03)	| 22.04.25 ~ 22.05.13	|  Swift API Design Guide에 따른 네이밍, 캡슐/은닉화, modality, 오토레이아웃, 화면 사이의 데이터 공유	| 2인 iOS 개발 |
+|  [계산기](https://github.com/yeeton37/ios-calculator-app/tree/step3-yeton)	| 22.05.16 ~ 22.06.03	| TDD, Queue, LinkedList, UML	| 1인 iOS 개발 | 
+|  [만국박람회](https://github.com/yeeton37/ios-exposition-universelle/tree/step3)	| 22.06.13 ~ 22.06.24	| JSON, 테이블뷰, 접근성(Accessibility)	| 2인 iOS 개발|
+|  [은행 창구 매니저](https://github.com/wongbingg/ios-bank-manager/tree/test-code/step4_wongbing)	| 22.06.27 ~ 22.07.08 | 동시성 프로그래밍 이해, 스레드, 커스텀 뷰	| 2인 iOS 개발 |
+|  [오픈마켓](https://github.com/minsson/ios-open-market)  | 	22.07.11 ~ 22.08.05 |	URLSession을 활용한 서버와 통신, Modern Collection View	| 2인 iOS 개발 |
+|  [일기장](https://github.com/yeeton37/ios-diary/tree/feature/step2-2) |	22.08.16 ~ 22.09.02	| CoreData, Open API 활용 | 	2인 iOS 개발 |
+|  [프로젝트 매니저](https://github.com/yagom-academy/ios-project-manager/tree/ic_6_yeton)	| 22.09.04 ~ 22.09.30	 | MVVM+UIKit, firebase, iPad 앱 이해	| 1인 iOS 개발 |
