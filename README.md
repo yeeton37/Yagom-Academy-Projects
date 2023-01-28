@@ -17,7 +17,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |  [숫자 야구](https://github.com/yeeton37/ios-number-baseball) |	2022.04.12 ~ 2022.04.15 | git 이해, Optional 처리 |	[나이든별](https://github.com/radiantchoi) | [말랑](https://github.com/malrang-malrang) |
 |  [묵찌빠 게임](https://github.com/yeeton37/ios-rock-paper-scissors/tree/ic_6_groot) |	2022.04.18 ~ 2022.04.22 |	순환함수(재귀함수)와 반복문, 코딩 컨벤션	|   [그루트](https://github.com/Groot-94) | [레드](https://github.com/cherrishRed) |
-|  [쥬스 메이커](https://github.com/Hugh-github/ios-juice-maker/tree/step03)	| 2022.04.25 ~ 2022.05.13	|  Swift API Design Guide, 캡슐/은닉화, modality, 오토레이아웃, 화면 사이의 데이터 공유	| [Hugh](https://github.com/Hugh-github) | [제이슨](https://github.com/ehgud0670)
+|  [쥬스 메이커](https://github.com/Hugh-github/ios-juice-maker/tree/step03)	| 2022.04.25 ~ 2022.05.13	|  Swift API Design Guide, 캡슐/은닉화, 오토레이아웃	| [Hugh](https://github.com/Hugh-github) | [제이슨](https://github.com/ehgud0670)
 |  [계산기](https://github.com/yeeton37/ios-calculator-app/tree/step3-yeton)	| 2022.05.16 ~ 2022.06.03	| TDD, Queue, LinkedList, UML	| [borysarang](https://github.com/yusw10) | [Cory](https://github.com/corykim0829) 
 |  [만국박람회](https://github.com/yeeton37/ios-exposition-universelle/tree/step3)	| 2022.06.13 ~ 2022.06.24	| JSON, 테이블뷰, 접근성(Accessibility)	| [수꿍](https://github.com/Jeon-Minsu) | [쿠마](https://github.com/leejun6694)
 |  [은행 창구 매니저](https://github.com/wongbingg/ios-bank-manager/tree/test-code/step4_wongbing)	| 2022.06.27 ~ 2022.07.08 | 동시성 프로그래밍 이해, 스레드, 커스텀 뷰	| [웡빙](https://github.com/wongbingg) | [라이언](https://github.com/ryan-son)
