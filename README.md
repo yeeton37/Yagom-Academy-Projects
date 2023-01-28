@@ -22,5 +22,5 @@
 |  [만국박람회](https://github.com/yeeton37/ios-exposition-universelle/tree/step3)	| 2022.06.13 ~ 2022.06.24	| JSON, 테이블뷰, 접근성(Accessibility)	| [수꿍](https://github.com/Jeon-Minsu) | [쿠마](https://github.com/leejun6694)
 |  [은행 창구 매니저](https://github.com/wongbingg/ios-bank-manager/tree/test-code/step4_wongbing)	| 2022.06.27 ~ 2022.07.08 | 동시성 프로그래밍 이해, 스레드, 커스텀 뷰	| [웡빙](https://github.com/wongbingg) | [라이언](https://github.com/ryan-son)
 |  [오픈마켓](https://github.com/minsson/ios-open-market)  | 	2022.07.11 ~ 2022.08.05 |	URLSession을 활용한 서버와 통신, Modern Collection View	| [민쏜](https://github.com/minsson) | [그린](https://github.com/GREENOVER)
-|  [일기장](https://github.com/yeeton37/ios-diary/tree/feature/step2-2) |	2022.08.16 ~ 2022.09.02	| CoreData, Open API 활용 | [현이](https://github.com/seohyeon2) |
-|  [프로젝트 매니저](https://github.com/yagom-academy/ios-project-manager/tree/ic_6_yeton)	| 2022.09.04 ~ 2022.09.30	 | MVVM+UIKit, firebase, iPad 앱 이해	| 1인 iOS 개발 |
+|  [일기장](https://github.com/yeeton37/ios-diary/tree/feature/step2-2) |	2022.08.16 ~ 2022.09.02	| CoreData, Open API 활용 | [현이](https://github.com/seohyeon2) | [제이크](https://github.com/jryoun1)
+|  [프로젝트 매니저](https://github.com/yagom-academy/ios-project-manager/tree/ic_6_yeton)	| 2022.09.04 ~ 2022.09.30	 | MVVM+UIKit, firebase, iPad 앱 이해	| 1인 iOS 개발 | [찰리](https://github.com/kcharliek) |
